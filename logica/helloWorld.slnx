@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AgendApp/AgendApp.csproj" />
+  <Project Path="helloWorld/helloWorld.csproj" />
+</Solution>
