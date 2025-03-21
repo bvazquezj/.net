@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bvazq\\Documents\\Tareas\\Octavo Semestre\\.net\\logica\\AgendApp\\AgendApp.csproj",
+      "projectUniqueName": "C:\\Users\\bvazq\\Documents\\Tareas\\Octavo Semestre\\.net\\PrimerParcial\\logica\\AgendApp\\AgendApp.csproj",
       "projectName": "AgendApp",
-      "projectPath": "C:\\Users\\bvazq\\Documents\\Tareas\\Octavo Semestre\\.net\\logica\\AgendApp\\AgendApp.csproj",
+      "projectPath": "C:\\Users\\bvazq\\Documents\\Tareas\\Octavo Semestre\\.net\\PrimerParcial\\logica\\AgendApp\\AgendApp.csproj",
       "packagesPath": "C:\\Users\\bvazq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bvazq\\Documents\\Tareas\\Octavo Semestre\\.net\\logica\\AgendApp\\obj\\",
+      "outputPath": "C:\\Users\\bvazq\\Documents\\Tareas\\Octavo Semestre\\.net\\PrimerParcial\\logica\\AgendApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bvazq\\AppData\\Roaming\\NuGet\\NuGet.Config"

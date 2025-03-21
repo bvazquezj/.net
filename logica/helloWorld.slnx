@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="AgendApp/AgendApp.csproj" />
-  <Project Path="DataBaseConection/DataBaseConection.csproj" />
-  <Project Path="helloWorld/helloWorld.csproj" />
-</Solution>
